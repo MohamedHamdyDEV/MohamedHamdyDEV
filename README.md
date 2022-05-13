@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/Mohamed5Hamdy" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed5hamdy?logo=twitter&style=for-the-badge" alt="mohamed5hamdy" /></a> </p>
 
 <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+       <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
     </div>
 
 - 🔭 I’m currently working on **One Group**
