@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedHamdyDEV&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedHamdyDEV" /> </p>
 
-<p align="left"> <a href="https://twitter.com/MohamedHamdyDEV" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed5hamdy?logo=twitter&style=for-the-badge" alt="MohamedHamdyDEV" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MohamedHamdyDEV" target="blank"><img src="https://img.shields.io/twitter/follow/MohamedHamdyDEV?logo=twitter&style=for-the-badge" alt="MohamedHamdyDEV" /></a> </p>
 
 <div align=center>
        <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
