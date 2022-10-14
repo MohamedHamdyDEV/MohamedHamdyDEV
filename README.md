@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hamdy</h1>
 <h3 align="center">A Backend Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elsaftawy&label=Profile%20views&color=0e75b6&style=flat" alt="elsaftawy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedHamdyDEV&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedHamdyDEV" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Mohamed5Hamdy" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed5hamdy?logo=twitter&style=for-the-badge" alt="mohamed5hamdy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MohamedHamdyDEV" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed5hamdy?logo=twitter&style=for-the-badge" alt="MohamedHamdyDEV" /></a> </p>
 
 <div align=center>
        <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Mohamed5Hamdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohamed5Hamdy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohamed-hamdy7944/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-hamdy7944" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mohamedhamdy0010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedhamdy0010" height="30" width="40" /></a>
+<a href="https://twitter.com/MohamedHamdyDEV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MohamedHamdyDEV" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/MohamedHamdyDEV/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MohamedHamdyDEV" height="30" width="40" /></a>
+<a href="https://www.facebook.com/MohamedHamdyDEV/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MohamedHamdyDEV" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,7 +38,7 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaftawy&show_icons=true&locale=en&layout=compact" alt="elsaftawy" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsaftawy&show_icons=true&locale=en" alt="elsaftawy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedHamdyDEV&show_icons=true&locale=en&layout=compact" alt="MohamedHamdyDEV" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedHamdyDEV&show_icons=true&locale=en" alt="MohamedHamdyDEV" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elsaftawy&" alt="elsaftawy" /></p> -->
