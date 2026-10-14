@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/MohamedHamdyDEV">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+.NET+%26+Laravel;Currently+building+SwiftBooks+📚;Learning+ASP.NET+%26+Microsoft+Azure+☁️;I+love+Electronics+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+.NET+%26+Laravel;Currently+building+SwiftBooks;Learning+ASP.NET+%26+Microsoft+Azure;I+love+Electronics" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,15 +53,20 @@ public class MohamedHamdy
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/MohamedHamdyDEV/SwiftBooks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedHamdyDEV&repo=SwiftBooks&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-  </a>
-  <!-- غيّر REPO_NAME لاسم مشروع تاني عايز تعرضه -->
-  <a href="https://github.com/MohamedHamdyDEV/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedHamdyDEV&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="420" valign="top">
+      <h3>📚 SwiftBooks</h3>
+      <p>The project I'm currently building.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In%20Progress-7aa2f7?style=flat-square" />
+      </p>
+      <a href="https://github.com/MohamedHamdyDEV?tab=repositories">
+        <img src="https://img.shields.io/badge/View%20Repositories-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,7 +75,6 @@ public class MohamedHamdy
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedHamdyDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedHamdyDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" />
 </p>
 
 <p align="center">
